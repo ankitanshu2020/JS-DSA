@@ -13,3 +13,6 @@ console.table([candiateName, age, isGraduated]);
 // │ 1       │ 23              │
 // │ 2       │ true            │
 // └─────────┴─────────────────┘
+
+//git add .  ~to add all changes at once
+//git add -> git commit -m "msg" -> git push origin main
